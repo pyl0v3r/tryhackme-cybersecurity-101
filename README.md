@@ -1,6 +1,6 @@
 # 🛡️ TryHackMe: Cyber Security 101 Path
 
-Welcome to my learning journal for the [Cyber Security 101](https://tryhackme.com/path/outline/cybersecurity-101) path on TryHackMe.
+Welcome to my learning journal for the [Cyber Security 101](https://tryhackme.com/path/outline/cybersecurity101) path on TryHackMe.
 
 This beginner-friendly path is designed to build a solid foundation in multiple areas of cybersecurity including networking, cryptography, system fundamentals, offensive/defensive tooling, and career awareness. I've documented my progress here for both personal reference and to showcase my hands-on learning.
 
@@ -20,25 +20,22 @@ This beginner-friendly path is designed to build a solid foundation in multiple 
 
 ---
 
-## 📁 Room Progress
+📁 Room Progress
+#	Room Title	Status	Topics Covered
+01	Start Your Cyber Security Journey	✅ Completed	Cyber security overview, domains, and mindset
+02	Linux Fundamentals	✅ Completed	Linux shell basics, permissions, and user management
+03	Windows and AD Fundamentals	✅ Completed	Windows basics, Active Directory, users/groups
+04	Command Line	✅ Completed	Bash, PowerShell, and essential commands
+05	Networking	✅ Completed	TCP/IP, ports, protocols, OSI model
+06	Cryptography	✅ Completed	Encryption types, hashing, and encoding
+07	Exploitation Basics	✅ Completed	Vulnerabilities, CVEs, privilege escalation
+08	Web Hacking	✅ Completed	HTTP, forms, cookies, XSS, SQL injection
+09	Offensive Security Tooling	✅ Completed	Hydra, Gobuster, shells, SQLMap
+10	Defensive Security	✅ Completed	Threat detection, SOC, digital forensics, incident response
+11	Security Solutions	✅ Completed	Firewalls, IDS/IPS, SIEM, vulnerability scanners
+12	Defensive Security Tooling	✅ Completed	CyberChef, CAPA, REMnux, FLARE VM
 
-| #  | Room Title | Status | Topics Covered |
-|----|------------|--------|----------------|
-| 01 | [Start Your Cyber Security Journey](01-Start-Your-Cyber-Security-Journey.md) | ✅ Completed | What is cyber security, key domains, mindset |
-| 02 | [Linux Fundamentals](02-Linux-Fundamentals.md) | ✅ Completed | Shell basics, permissions, user management |
-| 03 | [Windows and AD Fundamentals](03-Windows-and-AD-Fundamentals.md) | ✅ Completed | Windows basics, Active Directory, users/groups |
-| 04 | [Command Line](04-Command-Line.md) | ✅ Completed | Bash, PowerShell, useful commands |
-| 05 | [Networking](05-Networking.md) | 🔄 In Progress | TCP/IP, ports, protocols, OSI model |
-| 06 | [Cryptography](06-Cryptography.md) | 🔄 In Progress | Encryption types, hashing, encoding |
-| 07 | [Exploitation Basics](07-Exploitation-Basics.md) | 🔄 In Progress | Vulnerabilities, CVEs, privilege escalation |
-| 08 | [Web Hacking](08-Web-Hacking.md) | 🔄 In Progress | HTTP, forms, cookies, XSS, SQLi |
-| 09 | [Offensive Security Tooling](09-Offensive-Security-Tooling.md) | 🔄 In Progress | Nmap, Hydra, Burp Suite, basic recon |
-| 10 | [Defensive Security](10-Defensive-Security.md) | 🔄 In Progress | Threat detection, monitoring basics |
-| 11 | [Security Solutions](11-Security-Solutions.md) | 🔄 In Progress | Firewalls, AV, IDS/IPS, endpoint tools |
-| 12 | [Defensive Security Tooling](12-Defensive-Security-Tooling.md) | 🔄 In Progress | SIEMs, EDR, threat intelligence tools |
-
-> Each markdown file contains key takeaways, tools used, commands learned, and personal notes from each room.
-
+Each markdown file contains key takeaways, tools used, commands learned, and personal insights from each module.
 ---
 
 ## 📸 Example Topics Covered
@@ -55,10 +52,10 @@ This beginner-friendly path is designed to build a solid foundation in multiple 
 
 ## 🧑‍💻 About Me
 
-I'm Urvashi Godumalani — a former full stack developer pivoting into cyber security. I'm currently pursuing a Master's in Cyber Security Technology and actively building hands-on skills in incident response, threat detection, and blue team tooling.
+I recently completed my Master’s degree in Cyber Security Technology and have built a strong practical skill set through hands-on labs in incident response, threat detection, and both offensive and defensive security tooling.
 
 - 💼 MSc Cyber Security (Northumbria University, London)
-- 🌍 [LinkedIn](https://linkedin.com/in/urvashi-godumalani)
+- 🌍 [LinkedIn](https://www.linkedin.com/in/urvashi-godumalani-043840113/)
 - 💻 [GitHub](https://github.com/pyl0v3r)
 
 ---
