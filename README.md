@@ -21,21 +21,22 @@ This beginner-friendly path is designed to build a solid foundation in multiple 
 ---
 
 
-📁 Room Progress
-#	Room Title	Status	Topics Covered
-01	Start Your Cyber Security Journey	✅ Completed	Cyber security overview, domains, and mindset
-02	Linux Fundamentals	✅ Completed	Linux shell basics, permissions, and user management
-03	Windows and AD Fundamentals	✅ Completed	Windows basics, Active Directory, users/groups
-04	Command Line	✅ Completed	Bash, PowerShell, and essential commands
-05	Networking	✅ Completed	TCP/IP, ports, protocols, OSI model
-06	Cryptography	✅ Completed	Encryption types, hashing, and encoding
-07	Exploitation Basics	✅ Completed	Vulnerabilities, CVEs, privilege escalation
-08	Web Hacking	✅ Completed	HTTP, forms, cookies, XSS, SQL injection
-09	Offensive Security Tooling	✅ Completed	Hydra, Gobuster, shells, SQLMap
-10	Defensive Security	✅ Completed	Threat detection, SOC, digital forensics, incident response
-11	Security Solutions	✅ Completed	Firewalls, IDS/IPS, SIEM, vulnerability scanners
-12	Defensive Security Tooling	✅ Completed	CyberChef, CAPA, REMnux, FLARE VM
+## 📁 Room Progress
 
+| #  | Room Title | Status | Topics Covered |
+|----|------------|--------|----------------|
+| 01 | [Start Your Cyber Security Journey](01-Start-Your-Cyber-Security-Journey.md) | ✅ Completed | What is cyber security, key domains, mindset |
+| 02 | [Linux Fundamentals](02-Linux-Fundamentals.md) | ✅ Completed | Shell basics, permissions, user management |
+| 03 | [Windows and AD Fundamentals](03-Windows-and-AD-Fundamentals.md) | ✅ Completed | Windows basics, Active Directory, users/groups |
+| 04 | [Command Line](04-Command-Line.md) | ✅ Completed | Bash, PowerShell, useful commands |
+| 05 | [Networking](05-Networking.md) | ✅ Completed  | TCP/IP, ports, protocols, OSI model |
+| 06 | [Cryptography](06-Cryptography.md) | ✅ Completed  | Encryption types, hashing, encoding |
+| 07 | [Exploitation Basics](07-Exploitation-Basics.md) | ✅ Completed  | Vulnerabilities, CVEs, privilege escalation |
+| 08 | [Web Hacking](08-Web-Hacking.md) | ✅ Completed  | HTTP, forms, cookies, XSS, SQLi |
+| 09 | [Offensive Security Tooling](09-Offensive-Security-Tooling.md) | ✅ Completed  | Nmap, Hydra, Burp Suite, basic recon |
+| 10 | [Defensive Security](10-Defensive-Security.md) | ✅ Completed  | Threat detection, monitoring basics |
+| 11 | [Security Solutions](11-Security-Solutions.md) | ✅ Completed  | Firewalls, AV, IDS/IPS, endpoint tools |
+| 12 | [Defensive Security Tooling](12-Defensive-Security-Tooling.md) | ✅ Completed  | SIEMs, EDR, threat intelligence tools |
 Each markdown file contains key takeaways, tools used, commands learned, and personal insights from each module.
 
 ## 📸 Example Topics Covered
