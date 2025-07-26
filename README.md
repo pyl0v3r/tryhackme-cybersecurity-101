@@ -36,7 +36,10 @@ This beginner-friendly path is designed to build a solid foundation in multiple 
 | 09 | [Offensive Security Tooling](09-Offensive-Security-Tooling.md) | ✅ Completed  | Nmap, Hydra, Burp Suite, basic recon |
 | 10 | [Defensive Security](10-Defensive-Security.md) | ✅ Completed  | Threat detection, monitoring basics |
 | 11 | [Security Solutions](11-Security-Solutions.md) | ✅ Completed  | Firewalls, AV, IDS/IPS, endpoint tools |
-| 12 | [Defensive Security Tooling](12-Defensive-Security-Tooling.md) | ✅ Completed  | SIEMs, EDR, threat intelligence tools |
+| 12 | [Defensive Security Tooling](12-Defensive-Security-Tooling.md) | ✅ Completed  | SIEMs, EDR, threat intelligence tools 
+
+---
+
 Each markdown file contains key takeaways, tools used, commands learned, and personal insights from each module.
 
 ## 📸 Example Topics Covered
