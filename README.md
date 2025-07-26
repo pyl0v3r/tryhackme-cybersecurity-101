@@ -20,6 +20,7 @@ This beginner-friendly path is designed to build a solid foundation in multiple 
 
 ---
 
+
 📁 Room Progress
 #	Room Title	Status	Topics Covered
 01	Start Your Cyber Security Journey	✅ Completed	Cyber security overview, domains, and mindset
@@ -36,7 +37,6 @@ This beginner-friendly path is designed to build a solid foundation in multiple 
 12	Defensive Security Tooling	✅ Completed	CyberChef, CAPA, REMnux, FLARE VM
 
 Each markdown file contains key takeaways, tools used, commands learned, and personal insights from each module.
----
 
 ## 📸 Example Topics Covered
 
